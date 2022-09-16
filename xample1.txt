@@ -1,0 +1,2 @@
+ini merupakan file yg akan di abaikan pada saat push/add didalam git karena sudah di tuliskan
+pada.gitignore
